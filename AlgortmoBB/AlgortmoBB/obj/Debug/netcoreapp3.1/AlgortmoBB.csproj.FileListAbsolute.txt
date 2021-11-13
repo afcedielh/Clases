@@ -1,0 +1,14 @@
+C:\Users\acedi\Documents\GitHub\Clases\AlgortmoBB\AlgortmoBB\bin\Debug\netcoreapp3.1\AlgortmoBB.exe
+C:\Users\acedi\Documents\GitHub\Clases\AlgortmoBB\AlgortmoBB\bin\Debug\netcoreapp3.1\AlgortmoBB.deps.json
+C:\Users\acedi\Documents\GitHub\Clases\AlgortmoBB\AlgortmoBB\bin\Debug\netcoreapp3.1\AlgortmoBB.runtimeconfig.json
+C:\Users\acedi\Documents\GitHub\Clases\AlgortmoBB\AlgortmoBB\bin\Debug\netcoreapp3.1\AlgortmoBB.runtimeconfig.dev.json
+C:\Users\acedi\Documents\GitHub\Clases\AlgortmoBB\AlgortmoBB\bin\Debug\netcoreapp3.1\AlgortmoBB.dll
+C:\Users\acedi\Documents\GitHub\Clases\AlgortmoBB\AlgortmoBB\bin\Debug\netcoreapp3.1\AlgortmoBB.pdb
+C:\Users\acedi\Documents\GitHub\Clases\AlgortmoBB\AlgortmoBB\obj\Debug\netcoreapp3.1\AlgortmoBB.csproj.AssemblyReference.cache
+C:\Users\acedi\Documents\GitHub\Clases\AlgortmoBB\AlgortmoBB\obj\Debug\netcoreapp3.1\AlgortmoBB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acedi\Documents\GitHub\Clases\AlgortmoBB\AlgortmoBB\obj\Debug\netcoreapp3.1\AlgortmoBB.AssemblyInfoInputs.cache
+C:\Users\acedi\Documents\GitHub\Clases\AlgortmoBB\AlgortmoBB\obj\Debug\netcoreapp3.1\AlgortmoBB.AssemblyInfo.cs
+C:\Users\acedi\Documents\GitHub\Clases\AlgortmoBB\AlgortmoBB\obj\Debug\netcoreapp3.1\AlgortmoBB.csproj.CoreCompileInputs.cache
+C:\Users\acedi\Documents\GitHub\Clases\AlgortmoBB\AlgortmoBB\obj\Debug\netcoreapp3.1\AlgortmoBB.dll
+C:\Users\acedi\Documents\GitHub\Clases\AlgortmoBB\AlgortmoBB\obj\Debug\netcoreapp3.1\AlgortmoBB.pdb
+C:\Users\acedi\Documents\GitHub\Clases\AlgortmoBB\AlgortmoBB\obj\Debug\netcoreapp3.1\AlgortmoBB.genruntimeconfig.cache

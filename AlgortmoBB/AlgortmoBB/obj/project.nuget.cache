@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YQBI0BXHT3VN7luZOJjLsRD5IGu4BL5U1KyryoAt8rXWRBSKtLvhuuvQpchCGLimZIFqFxSoAtvJrlJIhvtZrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\acedi\\Documents\\GitHub\\Clases\\AlgortmoBB\\AlgortmoBB\\AlgortmoBB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acedi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
