@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acedi\\source\\repos\\Clase1\\Clase1\\Clase1.csproj": {}
+    "C:\\Users\\acedi\\Documents\\GitHub\\Clases\\Clase 1\\Clase1\\Clase1\\Clase1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acedi\\source\\repos\\Clase1\\Clase1\\Clase1.csproj": {
+    "C:\\Users\\acedi\\Documents\\GitHub\\Clases\\Clase 1\\Clase1\\Clase1\\Clase1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acedi\\source\\repos\\Clase1\\Clase1\\Clase1.csproj",
+        "projectUniqueName": "C:\\Users\\acedi\\Documents\\GitHub\\Clases\\Clase 1\\Clase1\\Clase1\\Clase1.csproj",
         "projectName": "Clase1",
-        "projectPath": "C:\\Users\\acedi\\source\\repos\\Clase1\\Clase1\\Clase1.csproj",
+        "projectPath": "C:\\Users\\acedi\\Documents\\GitHub\\Clases\\Clase 1\\Clase1\\Clase1\\Clase1.csproj",
         "packagesPath": "C:\\Users\\acedi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acedi\\source\\repos\\Clase1\\Clase1\\obj\\",
+        "outputPath": "C:\\Users\\acedi\\Documents\\GitHub\\Clases\\Clase 1\\Clase1\\Clase1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
